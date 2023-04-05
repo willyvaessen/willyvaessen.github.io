@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: ##cccfb8;
+    background-color: #cccfb8;
 }
 .row::after {
     content: "";
