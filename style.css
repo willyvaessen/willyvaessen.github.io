@@ -4,6 +4,7 @@
 
  .button {
         display: inline-block;
+        font-family: "assets/glass_tty_vt220-webfont.woff";
         padding: 10px 20px;
         text-align: center;
         text-decoration: none;
@@ -46,7 +47,7 @@ html {
 }
 
 .header {
-    alignment: center;
+    align: center;
     background-color: #011078;
     color: #BEC2B4;
     padding: 15px;
