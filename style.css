@@ -7,7 +7,7 @@ html {
 
  .button {
         display: inline-block;
-        font-family: "/assets/glass_tty_vt220-webfont.woff";
+        font-family: "./assets/glass_tty_vt220-webfont.woff";
         padding: 10px 20px;
         text-align: center;
         text-decoration: none;
