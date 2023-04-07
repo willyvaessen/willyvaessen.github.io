@@ -16,6 +16,14 @@ a.button:hover {
     color: #33ff33;
 }
 
+h1,
+h2,
+h3,
+h4 {
+font-family: vt220;
+color: #011078
+}
+
 .button {
     display: inline-block;
     font-family: "vt220";
