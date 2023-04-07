@@ -5,9 +5,15 @@ html {
     font-family: "Lucida Sans", sans-serif;
 }
 
+@font-face {
+    font-family: "vt220";
+    src: url("assets/fonts/glass_tty_vt220-webfont.woff") format('woff');
+}
+
  .button {
         display: inline-block;
-        font-family: "./assets/fonts/glass_tty_vt220-webfont.woff";
+        font-family: "vt220";
+        font: size 32px;
         padding: 10px 20px;
         text-align: center;
         text-decoration: none;
